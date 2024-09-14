@@ -149,7 +149,7 @@
 ## Görselleştirme
 - senelere göre sorulmamış sorular
     - sorulmayan seneler için knn
-- 
+- 'Değerlendirme Puanı, yıl' tablosu
 ## Bütün verilere uygulanacak işlemler
 - Hepsi küçük harf yapılacak.
 - Aykırı değerler silinecek.
