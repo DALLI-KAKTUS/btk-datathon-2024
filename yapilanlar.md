@@ -150,6 +150,7 @@
 - senelere göre sorulmamış sorular
     - sorulmayan seneler için knn
 - 'Değerlendirme Puanı, yıl' tablosu
+- bence test verisinde olmayan bütün veriler silinmeli ve 2016 verileri test edilmeli 'berke'
 ## Bütün verilere uygulanacak işlemler
 - Hepsi küçük harf yapılacak.
 - Aykırı değerler silinecek.
